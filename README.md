@@ -38,7 +38,7 @@ Plugin do Lombok habilitado (caso use Lombok)
 1. Clonar o Repositório
 Abra o terminal e execute:
 
-git clone <URL-do-repositório>
+git clone <https://github.com/CarlosEZaul/Lista_de_tarefas_6>
 cd Lista_de_Tarefas_06
 
 Inicie o servidor de desenvolvimento: npm run dev
