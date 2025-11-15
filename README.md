@@ -43,4 +43,7 @@ cd Lista_de_Tarefas_06
 
 Inicie o servidor de desenvolvimento: npm run dev
 
+Caso não inicie corretamente, vá para a pasta app-tarefas e rode esse comando no terminal: npm install
+
+
 O frontend estará disponível em: http://localhost:5173
